@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-from pprint import pprint
 import pandas as pd
 
 def _get_info(URL, choice):
