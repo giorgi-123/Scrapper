@@ -1,0 +1,123 @@
+[
+    "Cars Data",
+    {
+        "Dealer Name": "Auto Showcase of Carol Stream",
+        "Mileage": "37,380 mi.",
+        "Price": "$47,995",
+        "Title": "2015 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Arlington Heights Ford",
+        "Mileage": "19,804 mi.",
+        "Price": "$42,994",
+        "Title": "2020 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Sutton Ford",
+        "Mileage": "19,381 mi.",
+        "Price": "$38,700",
+        "Title": "2019 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Bob Rohrman Schaumburg Ford",
+        "Mileage": "57,191 mi.",
+        "Price": "$42,650",
+        "Title": "2019 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Bill Kay Ford",
+        "Mileage": "103,142 mi.",
+        "Price": "$34,655",
+        "Title": "2017 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Napleton's River Oaks Chrysler Jeep Dodge RAM",
+        "Mileage": "14,820 mi.",
+        "Price": "$54,600",
+        "Title": "2020 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Advantage Acura of Naperville",
+        "Mileage": "14,808 mi.",
+        "Price": "$52,532",
+        "Title": "2020 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "INFINITI of Hoffman Estates",
+        "Mileage": "2,732 mi.",
+        "Price": "$84,620",
+        "Title": "2021 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Chevrolet of Palatine",
+        "Mileage": "79,086 mi.",
+        "Price": "$28,102",
+        "Title": "2014 Ford F-150 King Ranch"
+    },
+    {
+        "Dealer Name": "Bredemann Ford",
+        "Mileage": "113,804 mi.",
+        "Price": "$33,495",
+        "Title": "2016 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Chicago Motor Cars",
+        "Mileage": "21,104 mi.",
+        "Price": "$74,800",
+        "Title": "2019 Ford F-150 Raptor"
+    },
+    {
+        "Dealer Name": "Zeigler Ford of North Riverside",
+        "Mileage": "48,991 mi.",
+        "Price": "$58,901",
+        "Title": "2018 Ford F-150 Raptor"
+    },
+    {
+        "Dealer Name": "Napleton Off Lease",
+        "Mileage": "42,640 mi.",
+        "Price": "$65,591",
+        "Title": "2019 Ford F-150 Raptor"
+    },
+    {
+        "Dealer Name": "Wilkins Hyundai",
+        "Mileage": "38,778 mi.",
+        "Price": "$39,950",
+        "Title": "2019 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Arlington Heights Ford",
+        "Mileage": "24,706 mi.",
+        "Price": "$41,992",
+        "Title": "2019 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Sutton Ford",
+        "Mileage": "20,764 mi.",
+        "Price": "$39,000",
+        "Title": "2019 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Napleton's Arlington Heights Chrysler Dodge Jeep RAM",
+        "Mileage": "24,152 mi.",
+        "Price": "$41,982",
+        "Title": "2019 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Elmhurst BMW",
+        "Mileage": "6,028 mi.",
+        "Price": "$53,900",
+        "Title": "2020 Ford F-150 Lariat"
+    },
+    {
+        "Dealer Name": "Arlington Heights Ford",
+        "Mileage": "12,129 mi.",
+        "Price": "$52,423",
+        "Title": "2021 Ford F-150 XLT"
+    },
+    {
+        "Dealer Name": "Honda City Chicago",
+        "Mileage": "52,569 mi.",
+        "Price": "$39,334",
+        "Title": "2015 Ford F-150 Platinum"
+    }
+]
