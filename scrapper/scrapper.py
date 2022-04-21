@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-import pandas as pd
 
 
 class Scrapper:
